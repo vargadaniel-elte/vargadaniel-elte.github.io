@@ -21,6 +21,11 @@
 ## Egyéb
 - Térkép a campusról: [https://bis.elte.hu/map/budapest/lagymanyos?locale=hu](https://bis.elte.hu/map/budapest/lagymanyos?locale=hu)
 - Ericsson ebédlő étlap: [http://gastszolg.hu/radnoti.htm](http://gastszolg.hu/radnoti.htm)
+- Hibabejelentő (nem azonnali hibákhoz): [https://mufig.elte.hu/hibabejelentes](https://mufig.elte.hu/hibabejelentes)
+- Azonnali hiba bejelentése a következő telefonszámokon:
+  - épületgépészettel kapcsolatos hibák: 8720, 1920 (déli  - 24 órás ügyelet),  6098 (északi - 24 órás ügyelet)
+  - biztonsági szolgálattal kapcsolatos ügyek: 8698  főporta (déli tömb), 1222 főporta (északi tömb) 
+  - diszpécser: 8313  (24 órás ügyelet)
 
 ## Tanszéki dollgozók weboldalai
 
