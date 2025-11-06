@@ -18,6 +18,11 @@
 - Turnitin rendszer (plágium detektor): [https://shibboleth.turnitin.com/](https://shibboleth.turnitin.com/)
 - Gergő szakdolgozat bírálója: [https://ggombos.web.elte.hu/szakdoli/biralat/](https://ggombos.web.elte.hu/szakdoli/biralat/)
 
+## Pályázatok
+- Pályázati lehetőségek a karon: [https://www.inf.elte.hu/content/palyazati-lehetosegek-az-egyetemen-es-a-karon.t.4299?m=637](https://www.inf.elte.hu/content/palyazati-lehetosegek-az-egyetemen-es-a-karon.t.4299?m=637)
+- Egyetemi Kiválósági Alap: [https://www.elte.hu/eka](https://www.elte.hu/eka)
+
+
 ## Egyéb
 - Térkép a campusról: [https://bis.elte.hu/map/budapest/lagymanyos?locale=hu](https://bis.elte.hu/map/budapest/lagymanyos?locale=hu)
 - Ericsson ebédlő étlap: [http://gastszolg.hu/radnoti.htm](http://gastszolg.hu/radnoti.htm)
