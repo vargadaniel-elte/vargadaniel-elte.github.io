@@ -24,6 +24,7 @@
 
 
 ## Egyéb
+- EISZ kóvta állapotok: https://edit.elte.hu/xmlui/handle/10831/116630
 - Térkép a campusról: [https://bis.elte.hu/map/budapest/lagymanyos?locale=hu](https://bis.elte.hu/map/budapest/lagymanyos?locale=hu)
 - Ericsson ebédlő étlap: [http://gastszolg.hu/radnoti.htm](http://gastszolg.hu/radnoti.htm)
 - Hibabejelentő (nem azonnali hibákhoz): [https://mufig.elte.hu/hibabejelentes](https://mufig.elte.hu/hibabejelentes)
