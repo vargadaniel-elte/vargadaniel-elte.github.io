@@ -23,7 +23,7 @@
 - Egyetemi Kiválósági Alap: [https://www.elte.hu/eka](https://www.elte.hu/eka)
 
 ## Mesterséges Intelligencia
-- Egyetemi MI szabályozás: [https://www.elte.hu/dstore/document/14579/4-2025_%28X.28.%29_rektori_utas%C3%ADt%C3%A1s_MI_ai.pdf](https://www.elte.hu/dstore/document/14579/4-2025_%28X.28.%29_rektori_utas%C3%ADt%C3%A1s_MI_ai.pdf)
+- Egyetemi MI szabályozás: [https://www.elte.hu/content/szabalyozta-az-elte-a-mesterseges-intelligencia-hasznalatat-az-oktatasban.t.33606](https://www.elte.hu/content/szabalyozta-az-elte-a-mesterseges-intelligencia-hasznalatat-az-oktatasban.t.33606), maga a dokumentum: https://www.elte.hu/dstore/document/14579/4-2025%28X.28.%29_rektori_utas%C3%ADt%C3%A1s_MI_ai.pdf
 - Google Scholar Labs (kutatások/cikkek kereséséhez): [https://scholar.google.com/scholar_labs/search?hl=en](https://scholar.google.com/scholar_labs/search?hl=en)
 
 ## Egyéb
