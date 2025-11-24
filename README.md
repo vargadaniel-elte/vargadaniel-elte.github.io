@@ -22,6 +22,9 @@
 - Pályázati lehetőségek a karon: [https://www.inf.elte.hu/content/palyazati-lehetosegek-az-egyetemen-es-a-karon.t.4299?m=637](https://www.inf.elte.hu/content/palyazati-lehetosegek-az-egyetemen-es-a-karon.t.4299?m=637)
 - Egyetemi Kiválósági Alap: [https://www.elte.hu/eka](https://www.elte.hu/eka)
 
+## Mesterséges Intelligencia
+- Egyetemi MI szabályozás: [https://www.elte.hu/dstore/document/14579/4-2025_%28X.28.%29_rektori_utas%C3%ADt%C3%A1s_MI_ai.pdf](https://www.elte.hu/dstore/document/14579/4-2025_%28X.28.%29_rektori_utas%C3%ADt%C3%A1s_MI_ai.pdf)
+- Google Scholar Labs (kutatások/cikkek kereséséhez): [https://scholar.google.com/scholar_labs/search?hl=en](https://scholar.google.com/scholar_labs/search?hl=en)
 
 ## Egyéb
 - EISZ kóvta állapotok: https://edit.elte.hu/xmlui/handle/10831/116630
